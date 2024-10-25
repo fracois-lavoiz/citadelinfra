@@ -1,4 +1,4 @@
-"""Tests for orchestrator tests."""
+"""Tests for integrity tests."""
 import pytest
 
 def test_basic():
