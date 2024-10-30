@@ -40,7 +40,3 @@ Apache License 2.0
 ## Author
 
 Sovereign Shield Systems Ltd — London, United Kingdom
-
-<!-- Updated: 2024-10-26 05:19:05 +0000 -->
-
-<!-- Updated: 2024-10-29 10:10:20 +0000 -->
