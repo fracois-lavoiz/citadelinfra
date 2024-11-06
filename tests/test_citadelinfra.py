@@ -1,4 +1,4 @@
-"""Tests for integrity tests."""
+"""Tests for integration tests."""
 import pytest
 
 def test_basic():
